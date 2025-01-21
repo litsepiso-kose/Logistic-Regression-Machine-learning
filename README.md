@@ -28,7 +28,7 @@ This project involves implementing logistic regression for binary classification
      ```
    - Open the notebook in Jupyter or any Python IDE that supports `.ipynb` files, such as:
      ```bash
-     jupyter notebook "CSC312 - Assignment 2 - Logistic Regression.ipynb"
+     jupyter notebook " Machine Learning Logistic Regression.ipynb"
      ```
 
 3. **View on GitHub**
